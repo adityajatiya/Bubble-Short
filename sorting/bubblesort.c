@@ -1,3 +1,4 @@
+//this is bubble short
 #include<stdio.h>
 int main(){
     int arr[10]={210,9,100,7,6,32,4,45,2,1};
